@@ -1,2 +1,8 @@
 # react-course-webapp-7
-Section 12: A Look Behind The Scenes Of React &amp; Optimization Techniques
+*Section 13: An Alternative Way Of Building Components: Class-based Components*
+
+## local setup
+```
+npm install
+npm start
+```
